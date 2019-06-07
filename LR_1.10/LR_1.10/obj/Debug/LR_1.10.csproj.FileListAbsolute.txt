@@ -1,0 +1,7 @@
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\bin\Debug\LR_1.10.exe.config
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\bin\Debug\LR_1.10.exe
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\bin\Debug\LR_1.10.pdb
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\obj\Debug\LR_1.10.csprojAssemblyReference.cache
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\obj\Debug\LR_1.10.csproj.CoreCompileInputs.cache
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\obj\Debug\LR_1.10.exe
+D:\Visual_project\C# BGY\LR_1.10\LR_1.10\obj\Debug\LR_1.10.pdb
